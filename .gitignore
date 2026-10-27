@@ -1,0 +1,29 @@
+# Compiled binaries
+*.class
+*.pyc
+__pycache__/
+
+# Private keys (NEVER commit these)
+*.pem
+*.key
+*.pub
+Ex5/q1/23mcce11
+
+# IDE folders
+.idea/
+*.iml
+
+# Duplicate archive zips
+*.zip
+
+# Word source documents (screenshots embedded in docx, exported to PDF — use PDF instead)
+*.docx
+
+# Screenshots are embedded inside the Word/PDF submissions — not needed separately
+*.png
+
+# Large Gutenberg book text files used for Ex6 MapReduce demo
+Ex6/books/
+
+# macOS
+.DS_Store
